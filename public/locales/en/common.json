@@ -1,0 +1,12 @@
+{
+  "not-email": "Wrong email format",
+  "r-min-3": "Minimum 3 symbols",
+  "r-max-50": "Maximum 50 symbols",
+  "r-email": "Email is required",
+  "r-password": "Password is required",
+  "log-in": "Login",
+  "Register": "Register",
+  "forgot-password": "Forgot password?",
+  "password": "Password",
+  "log-out": "Log out"
+}

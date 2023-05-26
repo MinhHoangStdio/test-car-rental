@@ -1,0 +1,12 @@
+{
+  "not-email": "Định dạng email sai",
+  "r-min-3": "Tối thiểu 3 kí tự",
+  "r-max-50": "Tối đa 50 kí tự",
+  "r-email": "Email là bắt buộc",
+  "r-password": "Mật khẩu là bắt buộc",
+  "log-in": "Đăng nhập",
+  "Register": "Đăng ký",
+  "forgot-password": "Quên mật khẩu?",
+  "password": "Mật khẩu",
+  "log-out": "Đăng xuất"
+}
